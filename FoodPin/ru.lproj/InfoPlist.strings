@@ -1,0 +1,12 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "FoodPin";
+
+/* Bundle name */
+"CFBundleName" = "FoodPin";
+
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "Предоставьте доступ к камере, чтобы была возможность делать фото ресторанов.";
+
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "Предоставьте доступ к фото, чтобы была возможность выбрать фото ресторана.";
+

@@ -1,0 +1,10 @@
+/* 
+  AboutTableViewController.strings
+  FoodPin
+
+  Created by Grigory Stolyarov on 06.08.2021.
+  Copyright © 2021 Grigory Stolyarov. All rights reserved.
+*/
+
+"Rate us on App Store" = "Оцените нас в App Store";
+"Tell us your feedback" = "Дайте обратную связь";

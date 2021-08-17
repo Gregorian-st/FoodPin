@@ -1,0 +1,10 @@
+/* 
+  NewRestaurantController.strings
+  FoodPin
+
+  Created by Grigory Stolyarov on 07.08.2021.
+  Copyright © 2021 Grigory Stolyarov. All rights reserved.
+*/
+
+"We can't proceed because one of the fields is blank. Please note that all fields are required." = "Невозможно продолжить - одно из полей не заполнено";
+

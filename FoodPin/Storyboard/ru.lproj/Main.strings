@@ -1,0 +1,105 @@
+/* Class = "UILabel"; text = "ADDRESS:"; ObjectID = "1RD-Fd-Kpt"; */
+"1RD-Fd-Kpt.text" = "АДРЕС:";
+
+/* Class = "UITabBarItem"; title = "Favorites"; ObjectID = "2Qo-tl-jML"; */
+"2Qo-tl-jML.title" = "Избранное";
+
+/* Class = "UINavigationItem"; title = "FoodPin"; ObjectID = "3MJ-rT-N3L"; */
+"3MJ-rT-N3L.title" = "FoodPin";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "6JJ-Ak-aLL"; */
+"6JJ-Ak-aLL.text" = "Название";
+
+/* Class = "UINavigationItem"; title = "New Restaurant"; ObjectID = "6NF-Dz-tEP"; */
+"6NF-Dz-tEP.title" = "Новый ресторан";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "AEP-IR-LEw"; */
+"AEP-IR-LEw.text" = "Название";
+
+/* Class = "UIButton"; normalTitle = "Rate it"; ObjectID = "APe-Br-aMN"; */
+"APe-Br-aMN.normalTitle" = "Оценить";
+
+/* Class = "UIButton"; normalTitle = "Good"; ObjectID = "AZO-dd-CGS"; */
+"AZO-dd-CGS.normalTitle" = "Хорошо";
+
+/* Class = "UIBarButtonItem"; title = "FoodPin"; ObjectID = "C2Z-6n-4Y0"; */
+"C2Z-6n-4Y0.title" = "FoodPin";
+
+/* Class = "UIButton"; normalTitle = "Bad"; ObjectID = "cfO-Mh-wc7"; */
+"cfO-Mh-wc7.normalTitle" = "Плохо";
+
+/* Class = "UILabel"; text = "PHONE:"; ObjectID = "Cyw-ps-GcW"; */
+"Cyw-ps-GcW.text" = "ТЕЛЕФОН:";
+
+/* Class = "UINavigationItem"; title = " "; ObjectID = "dEC-wm-1ry"; */
+"dEC-wm-1ry.title" = " ";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "e8R-yx-8er"; */
+"e8R-yx-8er.text" = "Расположение";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "erL-hl-d4J"; */
+"erL-hl-d4J.text" = "Расположение";
+
+/* Class = "UITextField"; placeholder = "Fill in the restaurant address"; ObjectID = "esG-fI-LVb"; */
+"esG-fI-LVb.placeholder" = "Укажите адрес ресторана";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "fVN-eh-coq"; */
+"fVN-eh-coq.text" = "Тип";
+
+/* Class = "UITextField"; placeholder = "Fill in the restaurant type"; ObjectID = "g9T-yA-dsd"; */
+"g9T-yA-dsd.placeholder" = "Укажите тип ресторана";
+
+/* Class = "UILabel"; text = "TYPE:"; ObjectID = "gIF-dk-FDw"; */
+"gIF-dk-FDw.text" = "ТИП:";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "h4f-5Y-0b5"; */
+"h4f-5Y-0b5.title" = " ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "i0C-8P-Kej"; */
+"i0C-8P-Kej.text" = "Метка";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "K2m-bG-Lcf"; */
+"K2m-bG-Lcf.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Awesome"; ObjectID = "kJ6-n1-Ngp"; */
+"kJ6-n1-Ngp.normalTitle" = "Круто";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LbD-Ui-CMK"; */
+"LbD-Ui-CMK.text" = "Метка";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "Lo9-gP-mFg"; */
+"Lo9-gP-mFg.title" = "Пункт";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "m4F-Zr-nKJ"; */
+"m4F-Zr-nKJ.text" = "Название";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "mbB-Ym-4kz"; */
+"mbB-Ym-4kz.text" = "Тип";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "Ndd-Cg-POY"; */
+"Ndd-Cg-POY.title" = "Сохранить";
+
+/* Class = "UIButton"; normalTitle = "Okay"; ObjectID = "PIy-EP-e5f"; */
+"PIy-EP-e5f.normalTitle" = "Ok";
+
+/* Class = "UITextField"; placeholder = "Fill in the restaurant name"; ObjectID = "srm-8u-LjH"; */
+"srm-8u-LjH.placeholder" = "Укажите название ресторана";
+
+/* Class = "UIButton"; normalTitle = "Terrible"; ObjectID = "t0o-22-QQD"; */
+"t0o-22-QQD.normalTitle" = "Ужасно";
+
+/* Class = "UITextField"; placeholder = "Fill in the restaurant phone"; ObjectID = "Tz5-VQ-WW4"; */
+"Tz5-VQ-WW4.placeholder" = "Укажите номер телефона";
+
+/* Class = "UILabel"; text = "NAME:"; ObjectID = "u5B-BW-fIu"; */
+"u5B-BW-fIu.text" = "НАЗВАНИЕ:";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "w7A-Ao-edZ"; */
+"w7A-Ao-edZ.title" = "Пункт";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "yjE-k7-PfR"; */
+"yjE-k7-PfR.text" = "Тип";
+
+/* Class = "UILabel"; text = "DESCRIPTION:"; ObjectID = "z2K-vg-okI"; */
+"z2K-vg-okI.text" = "ОПИСАНИЕ:";
+

@@ -1,0 +1,14 @@
+/* 
+  WalkthroughPageViewController.strings
+  FoodPin
+
+  Created by Grigory Stolyarov on 07.08.2021.
+  Copyright © 2021 Grigory Stolyarov. All rights reserved.
+*/
+
+"CREATE YOUR OWN FOOD GUIDE" = "СОЗДАВАЙТЕ СОБСТВЕННЫЙ ГИД ПО РЕСТОРАНАМ";
+"SHOW YOU THE LOCATION" = "ОТМЕЧАЙТЕ РАСПОЛОЖЕНИЕ";
+"DISCOVER GREAT RESTAURANTS" = "ОТКРЫВАЙТЕ НОВЫЕ МЕСТА";
+"Pin your favorite restaurants and create your own food guide" = "Сохраните избранные рестораны и создайте собственный путеводитель";
+"Search and locate your favourite restaurant on Maps" = "Ищите и отмечайте Ваши избранные рестораны на карте";
+"Find restaurants shared by your friends and other foodies" = "Открывайте для себя растораны Ваших друзей и других увлечённых";

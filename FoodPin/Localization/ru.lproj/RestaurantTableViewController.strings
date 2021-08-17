@@ -1,0 +1,9 @@
+/* 
+  RestaurantTableViewController.strings
+  FoodPin
+
+  Created by Grigory Stolyarov on 07.08.2021.
+  Copyright © 2021 Grigory Stolyarov. All rights reserved.
+*/
+
+"Search restaurants..." = "Поиск по ресторанам...";

@@ -1,0 +1,9 @@
+/* Class = "UITabBarItem"; title = "About"; ObjectID = "iIS-UV-IoF"; */
+"iIS-UV-IoF.title" = "О приложении";
+
+/* Class = "UINavigationItem"; title = "About"; ObjectID = "QGQ-MP-Fzo"; */
+"QGQ-MP-Fzo.title" = "О приложении";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "tmM-so-joy"; */
+"tmM-so-joy.text" = "Заголовок";
+

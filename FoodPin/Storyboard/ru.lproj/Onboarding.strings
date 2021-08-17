@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "Ip1-Cx-hLf"; */
+"Ip1-Cx-hLf.normalTitle" = "ДАЛЕЕ";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "KCB-Gt-g4v"; */
+"KCB-Gt-g4v.normalTitle" = "Пропустить";
+
+/* Class = "UILabel"; text = "Subheading"; ObjectID = "YGz-t6-Lym"; */
+"YGz-t6-Lym.text" = "Подзаголовок";
+
+/* Class = "UILabel"; text = "HEADING"; ObjectID = "rio-ej-jUS"; */
+"rio-ej-jUS.text" = "ЗАГОЛОВОК";

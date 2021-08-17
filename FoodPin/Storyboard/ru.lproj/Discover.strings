@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "PB8-tE-GQN"; */
+"PB8-tE-GQN.text" = "Расположение";
+
+/* Class = "UITabBarItem"; title = "Discover"; ObjectID = "WZc-Ya-nfA"; */
+"WZc-Ya-nfA.title" = "Найти";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "dm5-4G-qyr"; */
+"dm5-4G-qyr.text" = "Название";
+
+/* Class = "UINavigationItem"; title = "Discover"; ObjectID = "i8K-MT-z0I"; */
+"i8K-MT-z0I.title" = "Найти";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "j5Y-Mf-xEz"; */
+"j5Y-Mf-xEz.text" = "Тип";
